@@ -1,5 +1,6 @@
-# "The code for both the Login page and the Home page can be found in the 'Lib' folder. 
-# Additionally, I have attached an application demo video and screenshots below."
+# NOTE:
+- The code for both the Login page and the Home page can be found in the 'Lib' folder. 
+- Additionally, I have attached an application demo video and screenshots below.
 
 # b1_gajendra
 
