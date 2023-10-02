@@ -1,4 +1,4 @@
-# The code for Login page and Home page is present in Lib folder
+# The code for Login page and Home page present in Lib folder
 
 # b1_gajendra
 
