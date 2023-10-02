@@ -1,4 +1,16 @@
-# FlutterApp
-A small app using flutter framework
-- Login page: Simple login UI with email and password inputs, proper validations, error displays.
-- Home page: An image grid (loaded from web) with 51 images. Images are asynchronously loaded, smooth transition from placeholder to image, loaded images are cached and smooth scrolling.
+# b1_gajendra
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
