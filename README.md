@@ -4,6 +4,9 @@ A new Flutter project.
  a small app using flutter framework with following pages
 - Login page: Simple login UI with email and password inputs. Add proper validations, error displays.
 - Home page: An image grid (loaded from web) with atleast 50 images. Images should be asynchronously loaded, transition from placeholder to image should be smooth, once loaded images should be cached, scrolling should be smooth.
+# Working Video
+
+https://github.com/GajendraShegunashi/FlutterApp/assets/137136170/5d04b21d-c17f-4b3d-ae47-2d627025d409
 
 # Output (PC)
 ![login_page_PC](https://github.com/GajendraShegunashi/FlutterApp/assets/137136170/f55f6fa2-4017-415d-9e3a-ad556988bef9)
