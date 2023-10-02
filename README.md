@@ -5,7 +5,7 @@ A new Flutter project.
 - Login page: Simple login UI with email and password inputs. Add proper validations, error displays.
 - Home page: An image grid (loaded from web) with atleast 50 images. Images should be asynchronously loaded, transition from placeholder to image should be smooth, once loaded images should be cached, scrolling should be smooth.
 
-# Output
+# Output (PC)
 ![login_page_PC](https://github.com/GajendraShegunashi/FlutterApp/assets/137136170/f55f6fa2-4017-415d-9e3a-ad556988bef9)
 
 ![login_page_validation_PC](https://github.com/GajendraShegunashi/FlutterApp/assets/137136170/c3120145-627e-424e-b508-20caf2d8befe)
@@ -14,6 +14,7 @@ A new Flutter project.
 
 ![Image_preview_pc](https://github.com/GajendraShegunashi/FlutterApp/assets/137136170/1534d54d-0546-452e-8fab-3d215090dfc6)
 
+# Output (MOBILE)
 ![login_page_mobile](https://github.com/GajendraShegunashi/FlutterApp/assets/137136170/c212384e-8b3b-4a44-9546-02b018e31398)     ![login_page_validation_mobile](https://github.com/GajendraShegunashi/FlutterApp/assets/137136170/7bdbec54-4181-4558-aa68-fcd0ada2254f)
 
 ![home_page_mobile](https://github.com/GajendraShegunashi/FlutterApp/assets/137136170/65b82258-abb3-4352-9341-df1f956c2747)    ![Image_preview_mobile](https://github.com/GajendraShegunashi/FlutterApp/assets/137136170/4331b638-fc21-4fb9-8bec-2c0a5bd404f7)
