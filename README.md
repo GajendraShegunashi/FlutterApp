@@ -1,16 +1,7 @@
 # b1_gajendra
 
 A new Flutter project.
+# a small app using flutter framework with following pages
+#- Login page: Simple login UI with email and password inputs. Add proper validations, error displays.
+#- Home page: An image grid (loaded from web) with atleast 50 images. Images should be asynchronously loaded, transition from placeholder to image should be smooth, once loaded images should be cached, #scrolling should be smooth.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
